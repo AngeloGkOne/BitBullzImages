@@ -2,7 +2,7 @@
   "Description": "Digital Collectibles",
   "name": "Collectible #5",
   "location": "location",
-  "rarity": "Common",
+  "rarity": "Rare",
   "attributes": [
     {
       "trait_type": "Character",

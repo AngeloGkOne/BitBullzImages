@@ -1,0 +1,32 @@
+{
+  "Description": "Digital Collectibles",
+  "name": "Collectible #33",
+  "location": "location",
+  "rarity": "Common",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "SK_BitBull_1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "BB_SamuraiHat_1"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BB_Hoodie_1"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BB_SweatPants_1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "BB_Shoes_1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Backround"
+    }
+  ]
+}

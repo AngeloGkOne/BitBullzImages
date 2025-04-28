@@ -2,7 +2,7 @@
   "Description": "Digital Collectibles",
   "name": "Collectible #27",
   "location": "location",
-  "rarity": "Common",
+  "rarity": "Rare",
   "attributes": [
     {
       "trait_type": "Character",
